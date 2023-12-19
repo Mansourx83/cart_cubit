@@ -1,16 +1,26 @@
-# cart_cubit_sat28
+# Cart Cubit
 
-A new Flutter project.
+This Flutter project showcases the BLoC pattern and Cubit architecture for efficient shopping cart management in a mobile app.
+
+## Features
+
+- **Add to Cart:** Users can seamlessly add products to their cart.
+- **Real-time Updates:** Cubit ensures instant UI updates when the cart state changes.
+- **Smooth User Experience:** Responsive and intuitive shopping cart interactions.
+
+## Tech Stack
+
+- **Flutter:** Single-codebase framework for iOS and Android.
+- **BLoC Pattern:** Efficient state management.
+- **Cubit Architecture:** Lightweight and reactive state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone: `git clone https://github.com/Mansourx83/cart_cubit.git`
+2. Navigate: `cd cart_cubit`
+3. Install: `flutter pub get`
+4. Run: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+Explore this project as a reference for implementing cart functionality in your Flutter apps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy coding!
